@@ -64,6 +64,7 @@ pip install opencv-python mediapipe cvzone
 ## ✨ Autor
 
 Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
+
 ¡Gracias por visitar este proyecto! 🐍😄
 
 ---
